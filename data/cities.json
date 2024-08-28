@@ -35,6 +35,78 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Ludvika",
+      "country": "Sweden",
+      "date": "2024-08-28T18:54:01.498Z",
+      "notes": "Nice town.",
+      "emoji": "🇸🇪",
+      "position": {
+        "lat": "60.1829173019497",
+        "lng": "15.092172295532233"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Ludvika",
+      "country": "Sweden",
+      "date": "2024-08-28T18:54:01.498Z",
+      "notes": "Nice town.",
+      "emoji": "🇸🇪",
+      "position": {
+        "lat": "60.1829173019497",
+        "lng": "15.092172295532233"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Gac",
+      "country": "Poland",
+      "date": "2024-10-17T18:54:40.000Z",
+      "notes": "wtf? welcome to the future!",
+      "emoji": "🇵🇱",
+      "position": {
+        "lat": "50.00773901463687",
+        "lng": "22.412109375000004"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Suchdol",
+      "country": "Czechia",
+      "date": "2024-08-28T19:01:17.297Z",
+      "notes": "",
+      "emoji": "🇨🇿",
+      "position": {
+        "lat": "49.92293545449574",
+        "lng": "15.117187500000002"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Kislingbury",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "date": "2024-08-28T19:04:56.200Z",
+      "notes": "",
+      "emoji": "🇬🇧",
+      "position": {
+        "lat": "52.214338608258224",
+        "lng": "-0.9667968750000001"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Hassi Ben Abdellah",
+      "country": "Algeria",
+      "date": "2024-08-28T19:07:53.499Z",
+      "notes": "",
+      "emoji": "🇩🇿",
+      "position": {
+        "lat": "31.840232667909365",
+        "lng": "5.976562500000001"
+      },
+      "id": 98443203
     }
   ]
 }
