@@ -2,17 +2,17 @@
 import PageNav from "../components/PageNav";
 import styles from "./Product.module.css";
 
-export default function Product() {
+export default function Pricing() {
   return (
     <main className={styles.product}>
       <PageNav />
-      
+
       <section>
         <div>
           <h2>
-            Simple pricing.
+            Simple pricing!
             <br />
-            Just $9/month.
+            It&apos;s completely free!
           </h2>
           <p>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae vel
